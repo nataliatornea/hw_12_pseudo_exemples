@@ -1,0 +1,1 @@
+# hw_12_pseudo_exemples
